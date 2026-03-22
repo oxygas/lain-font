@@ -3,8 +3,8 @@
   "name": "Serial Experiments Lain",
   "fonts": [
     {
-      "family": "Lain",
-      "source": "https://raw.githubusercontent.com/oxygas/lain-font/main/[YOUR-FONT-FILE.ttf]",
+      "family": "MomsTypewriter",
+      "source": "https://raw.githubusercontent.com/oxygas/lain-font/main/MomsTypewriter.ttf",
       "weight": 400
     }
   ]
