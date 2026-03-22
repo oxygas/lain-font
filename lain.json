@@ -1,1 +1,11 @@
-{"spec": 1, "name": "Serial Experiments Lain", "fonts": [{"family": "MomsTypewriter", "source": "https://raw.githubusercontent.com/oxygas/oxygas/main/lain.ttf", "weight": 400}]}
+{
+  "spec": 1,
+  "name": "Serial Experiments Lain",
+  "fonts": [
+    {
+      "family": "Lain",
+      "source": "https://raw.githubusercontent.com/oxygas/lain-font/main/[YOUR-FONT-FILE.ttf]",
+      "weight": 400
+    }
+  ]
+}
