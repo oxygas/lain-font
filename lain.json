@@ -1,7 +1,9 @@
 {
   "name": "Serial Experiments Lain",
+  "spec": "1",
   "fonts": [{
     "family": "MomsTypewriter",
-    "source": "https://raw.githubusercontent.com/oxygas/lain-font/main/MomsTypewriter.ttf"
+    "source": "https://raw.githubusercontent.com/oxygas/lain-font/main/Mom®t___.ttf",
+    "weight": 400
   }]
 }
