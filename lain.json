@@ -1,0 +1,9 @@
+{
+  "spec": 1,
+  "name": "Serial Experiments Lain",
+  "previewText": "wired.lain",
+  "main": {
+    "family": "Lain Typewriter",
+    "src": "MomTypewriter.ttf"
+  }
+}
